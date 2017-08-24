@@ -29,7 +29,7 @@ The React frontend communicates with the Rails backend through the API. Tokens a
 Test user in seeds.rb -- user@lol.com / netlify123
 
 ## Running the app locally
-By default the frontend makes request to the localhost on port 3001. To run the app locally, run:
+By default the frontend makes request to the localhost on port 3001. To run the app locally, install all the dependencies then run:
 
 npm start
 
